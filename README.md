@@ -5,8 +5,12 @@ We have released a new crypto wallet brute force called Wallet Hunter, which has
 
 Features:
 
-Running at 38.5m speed on 10 networks on a standard computer. A simple interface that makes it easy to use. Adjustable speed. A system that automatically sends you the wallets found. The ability to select the networks where the wallet will be searched Windows And Macos Computers video_2023-12-09_10-31-41.mp4 Dm to buy
-https://github.com/DarkOfLord1/Wallet-Cracker-wallet-brute-force-/assets/153342408/f70336d6-3967-4491-925a-babf5805c4bc
+Running at 38.5m speed on 10 networks on a standard computer. A simple interface that makes it easy to use. Adjustable speed. A system that automatically sends you the wallets found. The ability to select the networks where the wallet will be searched Windows And Macos Computers  
+
+https://github.com/DarkOfLord1/Wallet-Cracker-wallet-brute-force-/assets/153342408/f836325e-3fff-48bb-a156-232ce98f5cfc
+
+
+Dm to buy
 
 https://t.me/wallethunter1
 
