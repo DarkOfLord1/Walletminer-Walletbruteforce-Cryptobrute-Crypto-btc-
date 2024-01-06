@@ -15,8 +15,6 @@ https://findlostwallets.com/
 
 With Discount Code
 
-SPCLXTQ 50% Discount Code For 10 First Person
-
 RQAEADX 33% Discount Code For 50 People
 
 ⏳ How you can make money with the software?
