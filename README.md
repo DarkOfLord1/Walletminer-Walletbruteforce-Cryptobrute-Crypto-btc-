@@ -1,5 +1,5 @@
 . # Walletminer-Walletbruteforce-Cryptobrute-Crypto-btc-
-Hello Everyone,..
+Hello Everyone,....
 
 We have released a new crypto wallet brute force called Wallet Hunter, which has a much faster speed and a higher probability of finding more.
 
